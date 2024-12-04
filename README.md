@@ -38,3 +38,25 @@ Machine learning models are often considered "black boxes" due to their complexi
 
 ---
 
+
+---
+
+## 📊 Results
+- **Model Performance**:
+  - Decision Tree Accuracy: 70.9%
+  - Random Forest Accuracy: 75.3%
+- **Feature Importance**:
+  - Top features: Glucose, Age, BMI
+- **Visual Explanations**:
+  - SHAP Summary and Dependence plots for global and local feature insights.
+  - LIME visualization for specific instance explanations.
+
+---
+
+## ⚡ Getting Started
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/explainable-ml.git
+cd explainable-ml
+
+
